@@ -1,0 +1,95 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 328
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Canada ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 7
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 6
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "PLESTIODON FASCIATUS cave" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 2
+	Query: "Ambystoma laterale hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Washington&#34; year &gt;= 1980" ; Times: 1
+	Query: "&#34;Ambystoma laterale&#34; hastissue:1" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "blandings" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "sceloporus undulatus alabama" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 5
+	Query: "snow leopard mappable:1" ; Times: 1
+	Query: "Bufo spinosus" ; Times: 1
+	Query: "Phrynonax poecilonotus" ; Times: 2
+	Query: "Birch Island" ; Times: 1
+	Query: "Craugastor raniformis" ; Times: 2
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Strabomantis bufoniformis" ; Times: 2
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1398 download events in this period)
+Total number of records downloaded: 1095
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+
+
+End of report.
