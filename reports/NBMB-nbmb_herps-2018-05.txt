@@ -1,0 +1,132 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 1989
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Canada ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Italy ; Times: 3
+	Country: France ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 4
+	Date: 2018-05-16 ; Times: 10
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-03 ; Times: 8
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-28 ; Times: 9
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 10
+	Date: 2018-05-24 ; Times: 8
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:NBMB" ; Times: 3
+	Query: "genus:dendroaspis country:&#34;uganda&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Guna Yala&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guna Yala&#34; country:&#34;Panama&#34; institutioncode:NBMB" ; Times: 3
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:NBMB" ; Times: 4
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:NBMB" ; Times: 3
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:NBMB" ; Times: 3
+	Query: "specificepithet:marina genus:Rhinella institutioncode:NBMB" ; Times: 3
+	Query: "brain size" ; Times: 3
+	Query: "genus:glyptemys sex:male OR female" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:NBMB" ; Times: 3
+	Query: "class:Reptilia institutioncode:NBMB" ; Times: 3
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:NBMB" ; Times: 3
+	Query: "Pelobates cultripes" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Guna Yala&#34; country:&#34;Panama&#34; institutioncode:NBMB" ; Times: 2
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates mappable:1 year&gt;=2000" ; Times: 2
+	Query: "dendroaspis angusticeps" ; Times: 8
+	Query: "class:Reptilia county:&#34;Dubwala&#34; stateprovince:&#34;Guna Yala&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Panama&#34; institutioncode:NBMB" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "Boreal Chorus frog" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Guna Yala&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Amazonas&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:noblei genus:Craugastor country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:calamita genus:Epidalea institutioncode:NBMB" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1178 download events in this period)
+Total number of records downloaded: 3053
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 7
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 6
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates pipiens (Lithobates pipiens Rana)" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "vntype:specimen class:Amphibia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "class:amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "brain size" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "vntype:specimen class:reptilia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+
+
+End of report.
