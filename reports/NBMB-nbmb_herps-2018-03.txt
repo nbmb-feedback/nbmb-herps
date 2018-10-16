@@ -1,0 +1,92 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 4683
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 83
+	Country: Canada ; Times: 13
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 4
+	Date: 2018-03-28 ; Times: 9
+	Date: 2018-03-19 ; Times: 7
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-07 ; Times: 15
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 21
+	Date: 2018-03-27 ; Times: 7
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 6
+	Query: "genus:Storeria year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 2
+	Query: "genus:Dendroaspis specificepithet:angusticeps" ; Times: 5
+	Query: "recordedby:Tait" ; Times: 1
+	Query: "recordedby:Hinds" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 5
+	Query: "specificepithet:constrictor genus:Boa country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 2
+	Query: "preparations:skin institutioncode:NBMB" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 4
+	Query: "genus:Ambystoma specificepithet:maculatum" ; Times: 1
+	Query: "genus:Lepidoblepharis specificepithet:sanctaemartae" ; Times: 5
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:NBMB" ; Times: 2
+	Query: "SEA TURTLE" ; Times: 1
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 5
+	Query: "genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 8
+	Query: "Lithobates pipiens" ; Times: 4
+	Query: "genus:Hemiphractus specificepithet:fasciatus" ; Times: 9
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 5
+	Query: "(Lithobates sylvaticus)" ; Times: 6
+	Query: "leatherback" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 2
+	Query: "genus:Pseudacris specificepithet:crucifer" ; Times: 2
+	Query: "specificepithet:cenchoa " ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "genus:lithobates county:&#34;Morgan&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Phrynonax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 8560
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Anura institutioncode:NBMB" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
