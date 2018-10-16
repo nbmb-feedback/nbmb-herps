@@ -1,0 +1,104 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 951
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 27
+	Country: Sweden ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-17 ; Times: 9
+	Date: 2018-04-14 ; Times: 4
+	Date: 2018-04-28 ; Times: 7
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeiana" ; Times: 3
+	Query: "specificepithet:cinereus genus:Plethodon (&#34;red phase&#34;)" ; Times: 1
+	Query: "NBMB" ; Times: 1
+	Query: "genus:Glyptemys sex:male OR female" ; Times: 1
+	Query: "genus:glyptemys sex:male OR female" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon (&#34;erythristic&#34;)" ; Times: 1
+	Query: "(erythristic OR &#34;all red&#34;)" ; Times: 2
+	Query: "744 institutioncode:NBMB" ; Times: 2
+	Query: "614 institutioncode:NBMB" ; Times: 2
+	Query: "jongsma specificepithet:sirtalis genus:thamnophis institutioncode:NBMB" ; Times: 1
+	Query: "Lithobates catesbeianus hasmass:1" ; Times: 1
+	Query: "1651 institutioncode:NBMB" ; Times: 2
+	Query: "1631 institutioncode:NBMB" ; Times: 2
+	Query: "(catesbeianus OR catesbeiana) hasmass:1" ; Times: 2
+	Query: "jongsma institutioncode:NBMB" ; Times: 3
+	Query: "genus:anolis institutioncode:NBMB" ; Times: 2
+	Query: "catesbeianus hasmass:1" ; Times: 1
+	Query: "specificepithet:surinamensis genus:micrurus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Plethodon (erythristic OR &#34;all red&#34;)" ; Times: 1
+	Query: "651 institutioncode:NBMB" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon (erythristic)" ; Times: 2
+	Query: "Lithobates catesbeiana hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1359 download events in this period)
+Total number of records downloaded: 2271
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Brazil ; Times: 2
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-23 ; Times: 7
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "genus:storeria sex:male OR female" ; Times: 1
+	Query: "genus:Opheodrys sex:male OR female" ; Times: 2
+	Query: "specificepithet:cinereus genus:Plethodon (&#34;red phase&#34;)" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Chelydra sex:male OR female" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Rana palustris" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "jongsma specificepithet:sirtalis genus:thamnophis institutioncode:NBMB" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:anolis institutioncode:NBMB" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:opheodrys sex:male OR female" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "ranA hasmass:1 mappable:1" ; Times: 1
+
+
+End of report.
