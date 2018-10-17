@@ -1,0 +1,101 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-17 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:noblei genus:Craugastor" ; Times: 1
+	Query: "frog northwest" ; Times: 1
+	Query: "genus:Colostethus country:&#34;Panama&#34;" ; Times: 1
+	Query: "blue spotted salamander" ; Times: 1
+	Query: "sea turtle" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:NBMB" ; Times: 1
+	Query: "Typhlonectes compressicauda" ; Times: 1
+	Query: "Alnus" ; Times: 1
+	Query: "snow leopard" ; Times: 11
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ NOT CCBER NOT SBMNH)" ; Times: 1
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "micrurus surinamensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1169 download events in this period)
+Total number of records downloaded: 594
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mink frog" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "spotted salamander" ; Times: 5
+	Query: "Caretta caretta" ; Times: 1
+	Query: "snow leopard" ; Times: 3
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "pickerel frog" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Spotted Salamander" ; Times: 2
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+
+
+End of report.
