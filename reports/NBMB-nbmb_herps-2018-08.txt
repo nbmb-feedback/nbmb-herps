@@ -1,0 +1,108 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 733
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 18
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 7
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-02 ; Times: 6
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-08 ; Times: 9
+	Date: 2018-08-17 ; Times: 3
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates berlandieri mappable:1" ; Times: 1
+	Query: "Manawagonish specificepithet:cinereus genus:Plethodon institutioncode:NBMB" ; Times: 1
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "abnormal growth" ; Times: 4
+	Query: "specificepithet:cinereus genus:Plethodon (lead)" ; Times: 2
+	Query: "chrysemys mississippi" ; Times: 3
+	Query: "specificepithet:cinereus genus:Plethodon institutioncode:NBMB" ; Times: 3
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "Ambystoma laterale mappable:1" ; Times: 2
+	Query: "genus:Aspidoscelis county:&#34;Monroe&#34;" ; Times: 1
+	Query: "Rhinella margaritifera mappable:1" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:naja country:&#34;cameroon&#34;" ; Times: 1
+	Query: "genus:Glyptemys sex:male OR female" ; Times: 1
+	Query: "naja melanoleuca" ; Times: 1
+	Query: "Craugastor noblei mappable:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum mappable:1" ; Times: 1
+	Query: "glyptemys" ; Times: 1
+	Query: "Lithobates palustris mappable:1" ; Times: 1
+	Query: "lead back genus:Plethodon" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "Rana temporaria mappable:1" ; Times: 1
+	Query: "specificepithet:clamitans genus:Lithobates stateprovince:&#34;New&#34; institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Phrynonax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1416 download events in this period)
+Total number of records downloaded: 2456
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 9
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Colubridae" ; Times: 2
+	Query: "order:Caudata" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:clamitans genus:Lithobates stateprovince:&#34;New&#34; institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "abnormal growth" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+
+
+End of report.
