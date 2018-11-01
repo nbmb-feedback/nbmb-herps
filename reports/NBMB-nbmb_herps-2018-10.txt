@@ -1,0 +1,85 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 206
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "catalognumber:008163" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chytrid" ; Times: 1
+	Query: "NBM" ; Times: 1
+	Query: "NBM 6006" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Colombia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1300 download events in this period)
+Total number of records downloaded: 992
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: France ; Times: 1
+	Country: India ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "heterodon platirhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Liochlorophis vernalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Colombia&#34;" ; Times: 1
+
+
+End of report.
