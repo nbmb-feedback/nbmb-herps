@@ -1,0 +1,96 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Hungary ; Times: 1
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panama boa constrictor" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "specificepithet:clamitans institutioncode:NBMB" ; Times: 1
+	Query: "specificepithet:granulosa stateprovince:California" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "hierophis" ; Times: 1
+	Query: "glyptemys" ; Times: 1
+	Query: "Amerotyphlops reticulatus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1719 download events in this period)
+Total number of records downloaded: 8790
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-13 ; Times: 4
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Ascaphus year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen family:Plethodontidae order:Caudata class:Amphibia" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Amphibia vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "panama boa constrictor" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "family:Plethodontidae" ; Times: 1
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "specificepithet:variegata genus:bombina" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
