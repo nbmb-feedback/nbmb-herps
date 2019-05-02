@@ -1,0 +1,87 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 11
+	Country: Chile ; Times: 3
+	Country: Switzerland ; Times: 7
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-05 ; Times: 3
+	Date: 2019-04-01 ; Times: 5
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis (stomach contents)" ; Times: 1
+	Query: "Pinus strobus mappable:1" ; Times: 1
+	Query: "Pinus banksiana mappable:1" ; Times: 1
+	Query: "catalognumber:005759" ; Times: 2
+	Query: "crocodylus palustris" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:002493" ; Times: 1
+	Query: "Pinus resinosa mappable:1" ; Times: 1
+	Query: "Pelobates fuscus" ; Times: 1
+	Query: "catalognumber:010401" ; Times: 2
+	Query: "catalognumber:008597" ; Times: 2
+	Query: "Glyptemys" ; Times: 1
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "Naja melanoleuca mappable:1" ; Times: 1
+	Query: "011047" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Marisora unimarginata mappable:1" ; Times: 1
+	Query: "&#34;welder wildlife foundation&#34;" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:savagei" ; Times: 2
+	Query: "genus:Sceloporus stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Phrynonax poecilonotus mappable:1" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1263 download events in this period)
+Total number of records downloaded: 1142
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "family:plethodontidae (&#34;seep&#34; OR &#34;seepage&#34;) AND (NOT &#34;oregon&#34; NOT &#34;washington&#34; NOT &#34;california&#34; NOT &#34;arkansas&#34; NOT &#34;louisiana&#34; NOT &#34;florida&#34; NOT &#34;mississippi&#34;)" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+
+
+End of report.
