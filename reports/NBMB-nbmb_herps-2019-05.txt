@@ -1,0 +1,83 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 1007
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 3
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-18 ; Times: 9
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "lithobates catesbeianus rana" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "abies" ; Times: 1
+	Query: "Sea turtle skeleton" ; Times: 1
+	Query: "Lithobates catesbeianus rana" ; Times: 2
+	Query: "genus:Craugastor specificepithet:raniformis" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Alabama lampropeltis" ; Times: 8
+	Query: "rana perezi" ; Times: 1
+	Query: "carroll thamnophis" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 940 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "family:Sphaerodactylidae" ; Times: 1
+	Query: "abies" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Belize&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Salamandra" ; Times: 1
+
+
+End of report.
