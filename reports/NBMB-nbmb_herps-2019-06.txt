@@ -1,0 +1,121 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 585
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 5
+	Date: 2019-06-11 ; Times: 25
+	Date: 2019-06-10 ; Times: 5
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-28 ; Times: 6
+	Date: 2019-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 1
+	Query: "genus:Hemidactylium specificepithet:scutatum" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:Glyptemys specificepithet:insculpta" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 1
+	Query: "genus:Dendroaspis specificepithet:angusticeps" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 3
+	Query: "Amerotyphlops reticulatus" ; Times: 1
+	Query: "specificepithet:raniformis genus:Craugastor mappable:1" ; Times: 2
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates stateprovince:&#34;alabama&#34;" ; Times: 6
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:maculatum" ; Times: 1
+	Query: "genus:Lithobates specificepithet:palustris" ; Times: 1
+	Query: "genus:Lepidoblepharis specificepithet:sanctaemartae" ; Times: 1
+	Query: "lampropeltis Alabama" ; Times: 1
+	Query: "specificepithet:savagei genus:Leptodactylus mappable:1" ; Times: 2
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:Hemiphractus specificepithet:fasciatus" ; Times: 2
+	Query: "genus:Strabomantis specificepithet:bufoniformis" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "genus:Graptemys specificepithet:geographica" ; Times: 1
+	Query: "leopard frogs" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(9.385949623872367,-78.19354053338475))&lt;100000" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "vntype:specimen specificepithet:coriacea genus:dermochelys (carapace)" ; Times: 1
+	Query: "sea turtle" ; Times: 2
+	Query: "rana iberica" ; Times: 1
+	Query: "snow leopard" ; Times: 2
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "genus:Naja specificepithet:melanoleuca" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "genus:Lithobates specificepithet:sylvaticus" ; Times: 1
+	Query: "genus:Emydoidea specificepithet:blandingii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1182 download events in this period)
+Total number of records downloaded: 1101
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "brook trout" ; Times: 2
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "order:caudata" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "genus:Dermochelys" ; Times: 1
+	Query: "beaver" ; Times: 3
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "raccoon continent:north america" ; Times: 1
+
+
+End of report.
