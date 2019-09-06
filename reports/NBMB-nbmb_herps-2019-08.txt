@@ -1,0 +1,77 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 5215
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 62
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-14 ; Times: 4
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 15
+	Date: 2019-08-27 ; Times: 5
+	Date: 2019-08-31 ; Times: 5
+	Date: 2019-08-30 ; Times: 14
+	Date: 2019-08-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sistrurus catenatus" ; Times: 6
+	Query: "atelopus limosus" ; Times: 1
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 10
+	Query: "genus:storeria occipitomaculata hastissue:1" ; Times: 2
+	Query: "Craugastor noblei mappable:1" ; Times: 1
+	Query: "specificepithet:sanctaemartae genus:Lepidoblepharis institutioncode:NBMB" ; Times: 6
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:NBMB" ; Times: 6
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 8
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Amerotyphlops reticulatus" ; Times: 1
+	Query: "specificepithet:homolepis genus:Sphaerodactylus institutioncode:NBMB" ; Times: 5
+	Query: "Rana catesbeianus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:occipitomaculata genus:storeria hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:NBMB" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1034 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Bolivia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Sphaerodactylidae" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+
+
+End of report.
