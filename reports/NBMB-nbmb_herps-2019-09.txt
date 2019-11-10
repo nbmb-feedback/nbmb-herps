@@ -1,0 +1,110 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 148
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 7
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-09 ; Times: 7
+	Date: 2019-09-22 ; Times: 4
+	Date: 2019-09-03 ; Times: 8
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus surinamensis mappable:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon stateprovince:&#34;New Brunswick&#34; hastissue:1" ; Times: 1
+	Query: "Imantodes cenchoa cenchoa mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "cranberry lake" ; Times: 2
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:NBMB" ; Times: 5
+	Query: "genus:Sceloporus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:NBMB" ; Times: 8
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "genus:Craugastor specificepithet:raniformis" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:homolepis genus:Sphaerodactylus institutioncode:NBMB" ; Times: 3
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Amerotyphlops reticulatus mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "specificepithet:limosus genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "glauca order:anura" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Micrurus surinamensis surinamensis mappable:1" ; Times: 1
+	Query: "viridescens stafford" ; Times: 1
+	Query: "Phrynonax poecilonotus mappable:1" ; Times: 1
+	Query: "specificepithet:sanctaemartae genus:Lepidoblepharis institutioncode:NBMB" ; Times: 5
+	Query: "Lions" ; Times: 1
+	Query: "amphipods" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1073 download events in this period)
+Total number of records downloaded: 2221
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brunei ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+
+
+End of report.
