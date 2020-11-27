@@ -1,0 +1,127 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 878
+Number of records retrieved in searches: 14344
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 17
+	Country: Unknown ; Times: 44
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 807
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-19 ; Times: 79
+	Date: 2020-04-18 ; Times: 56
+	Date: 2020-04-07 ; Times: 14
+	Date: 2020-04-05 ; Times: 5
+	Date: 2020-04-17 ; Times: 57
+	Date: 2020-04-16 ; Times: 75
+	Date: 2020-04-15 ; Times: 80
+	Date: 2020-04-14 ; Times: 33
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-23 ; Times: 12
+	Date: 2020-04-20 ; Times: 289
+	Date: 2020-04-21 ; Times: 149
+	Date: 2020-04-24 ; Times: 10
+	Date: 2020-04-03 ; Times: 8
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Snow leopard vntype:specimen" ; Times: 1
+	Query: "blandings" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Glyptemys insculpta" ; Times: 3
+	Query: "specificepithet:insculpta genus:Glyptemys" ; Times: 11
+	Query: "Lithobates berlandieri" ; Times: 4
+	Query: "genus:Phrynonax country:&#34;Panama&#34;" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "Glyptemys insculpta. vntype:specimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Santa Rosa&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:radix genus:Thamnophis country:&#34;Canada&#34;" ; Times: 1
+	Query: "Rana temporaria" ; Times: 8
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma lifestage:Adult sex:Male lengthtype:total length haslength:1" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 49
+	Query: "lithobates clamitans hasmass:1" ; Times: 2
+	Query: "Snow leopard" ; Times: 4
+	Query: "specificepithet:maculatum genus:Ambystoma lengthtype:total length hassex:1 haslength:1" ; Times: 2
+	Query: "Glyptemys insculpta" ; Times: 670
+	Query: "turtle length" ; Times: 1
+	Query: "Rhinella alata" ; Times: 3
+	Query: "Glyptemys insculpta vntype:specimen" ; Times: 2
+	Query: "(&#34;Glyptemys insculpta&#34;)" ; Times: 1
+	Query: "abies" ; Times: 1
+	Query: "specificepithet:radix genus:Thamnophis stateprovince:&#34;SAskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Glyptemys" ; Times: 4
+	Query: "glyptemys insculpta" ; Times: 86
+	Query: "specificepithet:cinereus genus:Plethodon lengthtype:total length haslength:1" ; Times: 4
+	Query: "(salamander) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma lengthtype:total length haslength:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1171 download events in this period)
+Total number of records downloaded: 1329
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 19
+	Country: Netherlands ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 3
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "eretmochelys" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "cheloniidae mydas sex" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+
+
+End of report.
