@@ -1,0 +1,76 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 126
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Thailand ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 2
+	Date: 2019-12-24 ; Times: 8
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Chelonia mydas haslength:1" ; Times: 1
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(30.388861411120605,-87.20508770512714))&lt;15604" ; Times: 1
+	Query: "specificepithet:alata genus:Rhinella" ; Times: 2
+	Query: "ambystoma maculatum durham" ; Times: 1
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "specificepithet:limosus genus:Atelopus" ; Times: 2
+	Query: "Lithobates sylvaticus" ; Times: 2
+	Query: "Chelonia mydas hasmass:1" ; Times: 1
+	Query: "Glyptemys+insculpta" ; Times: 3
+	Query: "Chelydra serpentina hasmass:1" ; Times: 1
+	Query: "family:Dactyloidae county:&#34;Pinellas&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:calamita genus:Epidalea" ; Times: 2
+	Query: "Caretta caretta hasmass:1" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Anaxyrus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 596 download events in this period)
+Total number of records downloaded: 4145
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
