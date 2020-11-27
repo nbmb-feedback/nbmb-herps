@@ -1,0 +1,102 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 3593
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 57
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 52
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "lithobates clamitans AND (canada)" ; Times: 1
+	Query: "vntype:specimen (plethodon cinereus chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "chytrid lithobates" ; Times: 8
+	Query: "specificepithet:sylvaticus genus:Lithobates" ; Times: 2
+	Query: "lithobates catesbeianus AND (canada) hassex:1 hasmass:1" ; Times: 1
+	Query: "lithobates sylvaticus AND (canada) hassex:1 hasmass:1" ; Times: 1
+	Query: "chytrid lithobates pipiens new york" ; Times: 1
+	Query: "Atelopus limosus" ; Times: 1
+	Query: "lithobates clamitans AND (canada) hassex:1 hasmass:1" ; Times: 7
+	Query: "lithobates clamitans AND (canada) hasmass:1" ; Times: 2
+	Query: "chytrid lithobates pipiens" ; Times: 3
+	Query: "chytrid" ; Times: 3
+	Query: "(plethodon chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "chytrid vntype:specimen institutioncode:NBMB hastissue:1" ; Times: 3
+	Query: "(pipiens chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "vntype:specimen (lithobates chytrid) haslifestage:1 hastissue:1" ; Times: 1
+	Query: "lithobates clamitans hasmass:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "(lithobates chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "(clamitans chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "vntype:specimen (lithobates pipiens chytrid) haslifestage:1 hastissue:1" ; Times: 1
+	Query: "lithobates clamitans hassex:1 hasmass:1" ; Times: 4
+	Query: "(chytrid) institutioncode:NBMB hastissue:1" ; Times: 3
+	Query: "vntype:specimen (lithobates chytrid) hassex:1 hastissue:1" ; Times: 1
+	Query: "vntype:specimen (Lithobates pipiens chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "necturus maculosus AND (canada)" ; Times: 3
+	Query: "specificepithet:Insculpta genus:Glyptemys" ; Times: 1
+	Query: "vntype:specimen (lithobates chytrid) institutioncode:NBMB haslifestage:1 hastissue:1" ; Times: 1
+	Query: "(salamander) hassex:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 853 download events in this period)
+Total number of records downloaded: 1752
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Italy ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-03 ; Times: 8
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "(lithobates chytrid) institutioncode:NBMB hastissue:1" ; Times: 3
+	Query: "(pipiens chytrid) institutioncode:NBMB hastissue:1" ; Times: 2
+	Query: "vntype:specimen (Lithobates pipiens chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "Atelopus limosus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "(clamitans chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "(plethodon chytrid) institutioncode:NBMB hastissue:1" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+
+
+End of report.
