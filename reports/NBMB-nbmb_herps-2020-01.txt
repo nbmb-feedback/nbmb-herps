@@ -1,0 +1,98 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 338
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: United Kingdom ; Times: 8
+	Country: Canada ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-28 ; Times: 8
+	Date: 2020-01-23 ; Times: 14
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-27 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "vntype:specimen genus:thamnophis hassex:1 haslength:1" ; Times: 2
+	Query: "&#34;chytrid&#34; order:caudata" ; Times: 2
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:NBMB" ; Times: 7
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:NBMB" ; Times: 4
+	Query: "specificepithet:orientalis genus:Bombina" ; Times: 1
+	Query: "specificepithet:perezi genus:Rana" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 1
+	Query: "specificepithet:bufoniformis genus:Strabomantis" ; Times: 1
+	Query: "specificepithet:homolepis genus:Sphaerodactylus institutioncode:NBMB" ; Times: 4
+	Query: "specificepithet:bombina genus:Bombina" ; Times: 1
+	Query: "temporaria Rana" ; Times: 1
+	Query: "specificepithet:variegata genus:Bombina" ; Times: 1
+	Query: "cultripes Pelobates" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "Emydoidea blandingii mappable:1" ; Times: 1
+	Query: "calamita Bufo" ; Times: 1
+	Query: "specificepithet:raniformis genus:Craugastor" ; Times: 1
+	Query: "Sphaerodactylus homolepis" ; Times: 1
+	Query: "(movement)" ; Times: 1
+	Query: "specificepithet:japonica genus:Hyla" ; Times: 1
+	Query: "specificepithet:iberica genus:Rana" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pseudacris" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 1
+	Query: "specificepithet:sanctaemartae genus:Lepidoblepharis institutioncode:NBMB" ; Times: 6
+	Query: "Lepidoblepharis sanctaemartae" ; Times: 1
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1584 download events in this period)
+Total number of records downloaded: 64
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Sphaerodactylus cinereus" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "Lepidoblepharis sanctaemartae" ; Times: 1
+	Query: "Sphaerodactylus homolepis" ; Times: 1
+	Query: "Marisora unimarginata" ; Times: 2
+	Query: "specificepithet:cinereus genus:plethodon country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
