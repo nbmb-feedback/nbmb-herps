@@ -1,0 +1,90 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 264
+Number of records retrieved in searches: 579
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 260
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-11 ; Times: 5
+	Date: 2020-08-01 ; Times: 116
+	Date: 2020-08-03 ; Times: 114
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-08 ; Times: 8
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "Phrynonax poecilonotus" ; Times: 1
+	Query: "specificepithet:americanus class:amphibia hassex:1 haslength:1" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:homolepis genus:Sphaerodactylus" ; Times: 228
+	Query: "specificepithet:sanctaemartae genus:Lepidoblepharis institutioncode:NBMB" ; Times: 5
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:NBMB" ; Times: 5
+	Query: "008417" ; Times: 2
+	Query: "micrurus surinamensis" ; Times: 2
+	Query: "blandings turtle" ; Times: 2
+	Query: "Glyptemys" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 4
+	Query: "amerotyphlops reticulatus" ; Times: 1
+	Query: "specificepithet:homolepis genus:Sphaerodactylus institutioncode:NBMB" ; Times: 4
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:NBMB" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 756 download events in this period)
+Total number of records downloaded: 502
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Switzerland ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "order:Squamata" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "Phrynonax poecilonotus" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "specificepithet:americanus class:amphibia hassex:1 haslength:1" ; Times: 1
+
+
+End of report.
