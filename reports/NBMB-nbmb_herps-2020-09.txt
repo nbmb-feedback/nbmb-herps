@@ -1,0 +1,90 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 1388
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-30 ; Times: 6
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-29 ; Times: 8
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Ranidae institutioncode:NBMB" ; Times: 5
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34; AND (NOT argus)" ; Times: 1
+	Query: "year &gt;= 2014 year &lt;= 2015 institutioncode:NBMB" ; Times: 2
+	Query: "Opheodrys hastissue:1" ; Times: 1
+	Query: "institutioncode:NBMB" ; Times: 3
+	Query: "atelopus limosus" ; Times: 5
+	Query: "wagler specificepithet:cinereus genus:Sphaerodactylus" ; Times: 2
+	Query: "year &gt;= 2015 year &lt;= 2015 institutioncode:NBMB" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 2
+	Query: "white ash" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34;" ; Times: 2
+	Query: "order:Testudines country:&#34;Panama&#34;" ; Times: 1
+	Query: "family:Ranidae country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "genus:Sphaerodactylus country:&#34;Pánama&#34;" ; Times: 1
+	Query: "family:Ranidae country:&#34;Canada&#34; hastissue:1" ; Times: 2
+	Query: "Jongsma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 976 download events in this period)
+Total number of records downloaded: 2243
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ghana ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 6
+	Country: Norway ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-30 ; Times: 4
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:picta genus:Chrysemys hastissue:1" ; Times: 2
+	Query: "specificepithet:pipiens genus:Lithobates country:&#34;Canada&#34;" ; Times: 2
+	Query: "acris" ; Times: 1
+	Query: "atelopus limosus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+	Query: "emydoidea" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+
+
+End of report.
