@@ -1,0 +1,120 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 627
+Number of records retrieved in searches: 10856
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 610
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 66
+	Date: 2020-11-21 ; Times: 46
+	Date: 2020-11-22 ; Times: 172
+	Date: 2020-11-23 ; Times: 93
+	Date: 2020-11-19 ; Times: 66
+	Date: 2020-11-18 ; Times: 28
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 63
+	Date: 2020-11-16 ; Times: 48
+	Date: 2020-11-02 ; Times: 4
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 2
+	Date: 2020-11-27 ; Times: 25
+	Date: 2020-11-11 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Lithobates berlandieri" ; Times: 1
+	Query: "9125 institutioncode:NBMB" ; Times: 1
+	Query: "vntype:specimen institutioncode:NBMB" ; Times: 4
+	Query: "Glyptemys insculpta." ; Times: 18
+	Query: "NBM-9123" ; Times: 4
+	Query: "Pelobates fuscus" ; Times: 1
+	Query: "NBM-009128" ; Times: 1
+	Query: "NBM" ; Times: 3
+	Query: "Rana temporaria" ; Times: 2
+	Query: "NBM-009123" ; Times: 5
+	Query: "9123 institutioncode:NBMB" ; Times: 1
+	Query: "NBM-009125" ; Times: 1
+	Query: "NBM-009127" ; Times: 1
+	Query: "Rana catesbeianus" ; Times: 3
+	Query: "NBM-009142" ; Times: 1
+	Query: "Chelydra serpentina hastissue:1" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates" ; Times: 1
+	Query: "Glyptemys insculpta range" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 540
+	Query: "Craugastor raniformis" ; Times: 2
+	Query: "NBMB Herps NBM-009123" ; Times: 1
+	Query: "institutioncode:NBMB" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 29
+	Query: "Bombina variegata" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 842 download events in this period)
+Total number of records downloaded: 5661
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 51
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 4
+	Date: 2020-11-21 ; Times: 5
+	Date: 2020-11-22 ; Times: 8
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-19 ; Times: 9
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 5
+	Date: 2020-11-16 ; Times: 4
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glyptemys insculpta." ; Times: 2
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "Anaxyrus americanus americanus" ; Times: 1
+	Query: "Pelobates fuscus" ; Times: 3
+	Query: "Trachemys" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 5
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 34
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+
+
+End of report.
