@@ -1,0 +1,91 @@
+Report for Institution Code NBMB, Resource nbmb_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Moldova ; Times: 3
+	Country: United States ; Times: 3
+	Country: Mozambique ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "006021" ; Times: 2
+	Query: "Hierophis viridiflavus" ; Times: 2
+	Query: "Craugastor raniformis" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Pelobates fuscus" ; Times: 1
+	Query: "mappable:1 scientificname:Anaxyrus woodhousei" ; Times: 1
+	Query: "Leptodactylus savagei" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "Amerotyphlops reticulatus Amazonas" ; Times: 1
+	Query: "Amerotyphlops reticulatus" ; Times: 1
+	Query: "Bufo spinosus" ; Times: 1
+	Query: "Rhinella alata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 705 download events in this period)
+Total number of records downloaded: 6975
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 15
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-02 ; Times: 16
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "Craugastor raniformis" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Leptodactylus savagei" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Rana temporaria" ; Times: 1
+	Query: "class:Amphibia country:Brazil" ; Times: 3
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Bufo spinosus" ; Times: 1
+	Query: "Rhinella alata" ; Times: 1
+
+
+End of report.
